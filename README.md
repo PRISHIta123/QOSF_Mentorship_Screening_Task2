@@ -1,6 +1,8 @@
 # QOSF_Mentorship_Screening_Tasks
 Contains code submission for the screening tasks to be completed as a part of the QOSF mentorship program. 
 
+Completed Task 2 for this submission, the code can be accessed in the QML_Screening.ipynb file.
+
 ## Task 2
 Implement a circuit that returns |01> and |10> with equal probability.  
 Requirements :  
